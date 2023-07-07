@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
-    "dev": "nodemom index"
+    "dev": "nodemom index",
+    "list": "node index.js --action list"
   },
   "repository": {
     "type": "git",
